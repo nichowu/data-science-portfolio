@@ -22,7 +22,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 	_Tools: NLTK, scikit_
 
 - ### Data Analysis and Visualisation
-		- [IEEE Fraud Detection Competition](https://github.com/nichowu/IEEE-CIS-Fraud-Detection/blob/main/IEEE-CIS-Fraud-Detection.ipynb): Exploratory data analysis on the IEEE fruad detection dataset. Data source and original kaggle competition link [here](https://www.kaggle.com/c/ieee-fraud-detection/overview)
+	- [IEEE Fraud Detection Competition](https://github.com/nichowu/IEEE-CIS-Fraud-Detection/blob/main/IEEE-CIS-Fraud-Detection.ipynb): Exploratory data analysis on the IEEE fruad detection dataset. Data source and original kaggle competition link [here](https://www.kaggle.com/c/ieee-fraud-detection/overview)
 
 	_Tools: Pandas, Seaborn and Matplotlib_
 
