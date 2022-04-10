@@ -25,7 +25,9 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
   - [Advanced Data Visualization: Porto Seguro Safe Driver Prediction](https://github.com/nichowu/Porto-Seguro-Safe-Driver-Prediction/blob/main/porto-seguro-safe-driving-main.ipynb): An EDA with a focus on feature encoding and feature engineering exploration.
   - [Advanced Data Visualization: IEEE Fraud Detection Competition](https://github.com/nichowu/IEEE-CIS-Fraud-Detection/blob/main/IEEE-CIS-Fraud-Detection.ipynb): Exploratory data analysis on the IEEE fruad detection dataset. Data source and original kaggle competition link [here.](https://www.kaggle.com/c/ieee-fraud-detection/overview)
   _Tools: Pandas, Seaborn and Matplotlib_
-
+  
+- ###  ETL & Database
+    - [ETL_with_psycopg2_petl](https://github.com/nichowu/ETL_with_psycopg2_petl): A basic ETL building practice between Bank of Canada, local excel file, PostgreSQL in python with psycopg2 and petl.
 
 - ###  Dashboard
     - [Dashboard in Dash: Country Happiness Dashboard App](https://github.com/nichowu/Country-Happiness-Dashboard-App): Present customized countries information through a series of data visualization tools such as world map, bar charts, box plot and comparison widget
