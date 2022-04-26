@@ -23,6 +23,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 - ### Data Analysis and Visualisation
   - [Covid-19 Data Analysis and Visualization](https://github.com/nichowu/covid_19_sql_tableau_project) Using SQL and Tableau to analyze covid-19 datasets from Our World in Data
+  - link to covid-19 dashboard: [https://public.tableau.com/app/profile/nicholas.wu7739/viz/CovidDashboard_16509546329780/Dashboard1?publish=yes]
   - [Advanced Data Visualization: Porto Seguro Safe Driver Prediction](https://github.com/nichowu/Porto-Seguro-Safe-Driver-Prediction/blob/main/porto-seguro-safe-driving-main.ipynb): An EDA with a focus on feature encoding and feature engineering exploration.
   - [Advanced Data Visualization: IEEE Fraud Detection Competition](https://github.com/nichowu/IEEE-CIS-Fraud-Detection/blob/main/IEEE-CIS-Fraud-Detection.ipynb): Exploratory data analysis on the IEEE fruad detection dataset. Data source and original kaggle competition link [here.](https://www.kaggle.com/c/ieee-fraud-detection/overview)
   _Tools: Pandas, Seaborn and Matplotlib_
